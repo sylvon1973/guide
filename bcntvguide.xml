@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BCNTV">
+    <display-name lang="en">BCNTV</display-name>
+  </channel>
+  <programme start="20211114000000 +0000" stop="20211114235900 +0000" channel="BCNTV">
+    <title lang="en">bcntv yard vibes countdown - Full Day Show</title>
+    <desc lang="en">yard vibes countdown , playing the latest dancehall video's.(n)</desc>
+  </programme>
+  <programme start="20211115000000 +0000" stop="20211115235900 +0000" channel="BCNTV">
+    <title lang="en">bcntv yard vibes countdown - Full Day Show</title>
+    <desc lang="en">yard vibes countdown , playing the latest dancehall video's.(n)</desc>
+  </programme>
+  <programme start="20211116000000 +0000" stop="20211116235900 +0000" channel="BCNTV">
+    <title lang="en">bcntv yard vibes countdown - Full Day Show</title>
+    <desc lang="en">yard vibes countdown , playing the latest dancehall video's.(n)</desc>
+  </programme>
+  <programme start="20211117000000 +0000" stop="20211117235900 +0000" channel="BCNTV">
+    <title lang="en">bcntv yard vibes countdown - Full Day Show</title>
+    <desc lang="en">yard vibes countdown , playing the latest dancehall video's.(n)</desc>
+  </programme>
+  <programme start="20211118000000 +0000" stop="20211118235900 +0000" channel="BCNTV">
+    <title lang="en">bcntv yard vibes countdown - Full Day Show</title>
+    <desc lang="en">yard vibes countdown , playing the latest dancehall video's.(n)</desc>
+  </programme>
+  <programme start="20211119000000 +0000" stop="20211119235900 +0000" channel="BCNTV">
+    <title lang="en">bcntv yard vibes countdown - Full Day Show</title>
+    <desc lang="en">yard vibes countdown , playing the latest dancehall video's.(n)</desc>
+  </programme>
+  <programme start="20211120000000 +0000" stop="20211120235900 +0000" channel="BCNTV">
+    <title lang="en">bcntv yard vibes countdown - Full Day Show</title>
+    <desc lang="en">yard vibes countdown , playing the latest dancehall video's.(n)</desc>
+  </programme>
+</tv>
